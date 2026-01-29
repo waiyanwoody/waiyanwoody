@@ -24,11 +24,11 @@
 
 | 🏆 GitHub Trophies       | Languages        |
 |-----------------|-----------------|
-| ![](https://github-profile-trophy.vercel.app/?username=sayrgyiwoody&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=8) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sayrgyiwoody&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact) |
+| ![](https://github-profile-trophy.vercel.app/?username=waiyanwoody&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=8) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=waiyanwoody&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact) |
 
 | 📊 GitHub Stats:       | 🔝 Top Contributed Repo      |
 |-----------------|-----------------|
-| ![](https://github-readme-streak-stats.herokuapp.com/?user=sayrgyiwoody&theme=tokyonight&hide_border=true)<br/> |![](https://github-contributor-stats.vercel.app/api?username=sayrgyiwoody&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) |
+| ![](https://github-readme-streak-stats.herokuapp.com/?user=waiyanwoody&theme=tokyonight&hide_border=true)<br/> |![](https://github-contributor-stats.vercel.app/api?username=waiyanwoody&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) |
 
 
 
@@ -38,6 +38,7 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sayrgyiwoody&icon=4&color=8)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=waiyanwoody&icon=4&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
